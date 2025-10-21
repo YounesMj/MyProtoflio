@@ -5,20 +5,20 @@ import { Button } from "@/components/ui/button";
 import { useRef, useEffect, useState } from "react";
 
 const projects = [
-  {
-    title: "E-Commerce Platform",
-    description:
-      "Full-stack e-commerce solution with React frontend, Node.js backend, and MongoDB database. Features include user authentication, payment processing, inventory management, and admin dashboard.",
-    image: "/modern-ecommerce-interface.png",
-    technologies: [
-      "React",
-      "Node.js",
-      "MongoDB",
-      "Tailwind CSS",
-    ],
+  // {
+  //   title: "E-Commerce Platform",
+  //   description:
+  //     "Full-stack e-commerce solution with React frontend, Node.js backend, and MongoDB database. Features include user authentication, payment processing, inventory management, and admin dashboard.",
+  //   image: "/modern-ecommerce-interface.png",
+  //   technologies: [
+  //     "React",
+  //     "Node.js",
+  //     "MongoDB",
+  //     "Tailwind CSS",
+  //   ],
 
-    live: "#",
-  },
+  //   live: "#",
+  // },
   {
     title: "Task Management App",
     description:
